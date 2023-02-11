@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shini.
-- 👀 I’m interested in python development.
-- 🌱 I’m currently learning Django framework.
-- 💞️ I’m looking to collaborate on mutual Django learning.
+- 👋 Hi, I’m Shiniasse (Real name is Andrew Orlov).
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning Django & Vue & React frameworks.
+- 💞️ I’m looking to collaborate on working with sites.
 - 📫 How to reach me - @Shiniasse (Telegram)
 
 <!---
