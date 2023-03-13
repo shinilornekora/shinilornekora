@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Shiniasse (Real name is Andrew Orlov).
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Django & Vue & React frameworks.
-- 💞️ I’m looking to collaborate on working with sites.
-- 📫 How to reach me - @Shiniasse (Telegram)
+### Hi there 👋
 
-<!---
-shinilornekora/shinilornekora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm second year IT student at Russian University Of Transport. 
+
+### Languages
+
+<div>
+  <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="img/java.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="img/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;
+
+</div>
+
+### Frameworks
+
+<div>
+  <img src="img/spring.svg" title="Spring" width="40" height="40"/>&nbsp;
+  <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
+  <img src="img/numpy.svg" title="NumPy" width="40" height="40"/>&nbsp;
+</div>
+
+### Technologies
+
+<div>
+  <img src="img/git.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="img/github.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="img/intellij.svg" title="Intellij" width="40" height="40"/>&nbsp;
+  <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
+</div>
