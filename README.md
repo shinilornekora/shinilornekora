@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm second year IT student at Russian University Of Transport. 
+Currently I'm learing the way of the frontend developer. 
 
 ### Languages
 
