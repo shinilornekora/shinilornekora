@@ -6,7 +6,7 @@ I'm second year IT student at Russian University Of Transport.
 
 <div>
   <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="img/java.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="img/javascript.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="img/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;
 
 </div>
