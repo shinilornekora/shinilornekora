@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm second year IT student at Russian University Of Transport. </br>
-Language experience:</br>
+Language&Framework experience:</br>
 C++ - 4 years, non-commercial, advanced in ML.</br>
 Python - 4 years, half-commercial, freelance, advanced in various API.</br>
 Javascript & HTML & CSS - 2 years, half commercial (was trained upon real projects)</br>
