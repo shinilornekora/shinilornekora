@@ -35,4 +35,5 @@ Currently I'm learning the way of the frontend developer.
   <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
   <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
   <img src="img/webstorm.png" title="WebStorm" width="40" height="40"/>&nbsp;
+  <img src="img/8a045799766163.5efa31210a588.png" title="Figma" width="40" height="40"/>&nbsp;
 </div>
