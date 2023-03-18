@@ -14,9 +14,7 @@ I'm second year IT student at Russian University Of Transport.
 ### Frameworks
 
 <div>
-  <img src="img/spring.svg" title="Spring" width="40" height="40"/>&nbsp;
   <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
-  <img src="img/numpy.svg" title="NumPy" width="40" height="40"/>&nbsp;
 </div>
 
 ### Technologies
