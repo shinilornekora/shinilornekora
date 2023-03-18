@@ -25,6 +25,5 @@ I'm second year IT student at Russian University Of Transport.
   <img src="img/git.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="img/github.svg" title="GitHub" width="40" height="40"/>&nbsp;
   <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="img/intellij.svg" title="Intellij" width="40" height="40"/>&nbsp;
   <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
 </div>
