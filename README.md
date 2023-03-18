@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I'm second year IT student at Russian University Of Transport. 
+I'm second year IT student at Russian University Of Transport. </br>
+Language experience:</br>
+C++ - 4 years, non-commercial, advanced in ML.</br>
+Python - 4 years, half-commercial, freelance, advanced in various API.</br>
+Javascript & HTML & CSS - 2 years, half commercial (was trained upon real projects)</br>
+Django - 1 year, there's experience from both backend and frontend sides</br>
+React - half of the year, 've been doing my coursework on it</br>
+Vue - half of the year, now I'm doing some personal projects on it</br>
 Currently I'm learing the way of the frontend developer. 
 
 ### Languages
