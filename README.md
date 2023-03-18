@@ -15,7 +15,8 @@ I'm second year IT student at Russian University Of Transport.
 
 <div>
   <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
-  <img src="img/react-framework-logo.jpg" width="80" height="40"/>&nbsp;
+  <img src="img/react-framework-logo.jpg" title="React" width="80" height="40"/>&nbsp;
+  <img src="img/vue.js.png" title="Vue" width="40" height="40"/>&nbsp;
 </div>
 
 ### Technologies
