@@ -8,7 +8,7 @@ Javascript & HTML & CSS - 2 years, half commercial (was trained upon real projec
 Django - 1 year, there's experience from both backend and frontend sides</br>
 React - half of the year, 've been doing my coursework on it</br>
 Vue - half of the year, now I'm doing some personal projects on it</br>
-Currently I'm learning the way of the frontend developer. 
+Currently I pursue the role of the frontend developer. 
 
 ### Languages
 
