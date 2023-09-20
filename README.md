@@ -14,8 +14,6 @@ Vue - half of the year, now I'm doing some personal projects on it</br>
 <div>
   <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="img/javascript.svg" title="Java" width="40" height="40"/>&nbsp;
-  <img src="img/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;
-
 </div>
 
 ### Frameworks
