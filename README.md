@@ -1,19 +1,15 @@
 ### Currently I pursue the role of the frontend developer. 👋
 
-I'm third year IT student at Russian University Of Transport. </br>
-Language & Framework experience:</br>
-C++ - 8 years, non-commercial, advanced in ML.</br>
-Python - 4 years, half-commercial, freelance, advanced in various API.</br>
-Javascript & HTML & CSS - 2 years, half commercial (was trained upon real projects)</br>
-Django - 1 year, there's experience from both backend and frontend sides</br>
-React - half of the year, 've been doing my coursework on it</br>
-Vue - half of the year, now I'm doing some personal projects on it</br>
+I'm third year IT student at Russian University Of Transport now. </br>
+
+In total, I have more than two years of the commercial experience. Usually I work on MERN stack, but there were some experiments with Vue alongside with Django. I prefer to use GASP for my animation cases due to its easy integration with React. Except developing something, I'm really into books, hustle, cooking and exploring! I hope that one day I manage to see the Japan by my very own eyes.
 
 ### Languages
 
 <div>
   <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="img/javascript.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="img/typescript.svg" title="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
 ### Frameworks
@@ -22,6 +18,9 @@ Vue - half of the year, now I'm doing some personal projects on it</br>
   <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
   <img src="img/react-framework-logo.jpg" title="React" width="80" height="40"/>&nbsp;
   <img src="img/vue.js.png" title="Vue" width="40" height="40"/>&nbsp;
+  <img src="img/express.js.png" title="Express" width="40" height="40"/>&nbsp;
+  <img src="img/node.js.png" title="Node" width="40" height="40"/>&nbsp;
+  <img src="img/bootstrap.js.png" title="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ### Technologies
