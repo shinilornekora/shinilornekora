@@ -17,7 +17,7 @@ In total, I have more than two years of the commercial experience. Usually I wor
 <div>
   <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
   <img src="img/react.svg" title="React" width="80" height="40"/>&nbsp;
-  <img src="img/vue.js.png" title="Vue" width="40" height="40"/>&nbsp;
+  <img src="img/vue.svg" title="Vue" width="40" height="40"/>&nbsp;
   <img src="img/express.js.png" title="Express" width="40" height="40"/>&nbsp;
   <img src="img/node.js.png" title="Node" width="40" height="40"/>&nbsp;
   <img src="img/bootstrap.js.png" title="Bootstrap" width="40" height="40"/>&nbsp;
