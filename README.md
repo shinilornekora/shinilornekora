@@ -1,9 +1,9 @@
 ### Currently I pursue the role of the frontend developer. 👋
 
 I'm third year IT student at Russian University Of Transport now. </br>
-My work experience lasts for 2-3 years, I'm in love with the MERN stack and common UI-kits like Ant Design / Gravity UI.
-Alongside with my common tasks, I like to do some animations on react-spring / gasp library.
-As for layout measures, I prefer to use css modules for proper style hashing, or some preprocessors like Sass / Less / Stylus.
+My work experience lasts for 2-3 years, I'm in love with the MERN stack and common UI-kits like Ant Design / Gravity UI. </br>
+Alongside with my common tasks, I like to do some animations on react-spring / gasp library. </br>
+As for layout measures, I prefer to use css modules for proper style hashing, or some preprocessors like Sass / Less / Stylus. </br>
 
 
 ### Languages
