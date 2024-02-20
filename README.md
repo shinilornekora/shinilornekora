@@ -9,7 +9,7 @@ In total, I have more than two years of the commercial experience. Usually I wor
 <div>
   <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="img/typescript.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="img/typescript.png" title="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
 ### Frameworks
