@@ -23,7 +23,7 @@ I dream of visiting Japan someday, and open my own bar. 😅
   <img src="img/express.svg" title="Express" width="40" height="40"/>&nbsp;
   <img src="img/node.svg" title="Node" width="40" height="40"/>&nbsp;
   <img src="img/react.svg" title="React" width="40" height="40"/>&nbsp;
-  <img src="img/vue.svg" title="Vue" width="40" height="40"/>&nbsp;
+  <img src="img/vue-1.svg" title="Vue" width="40" height="40"/>&nbsp;
   <img src="img/bootstrap.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
 </div>
