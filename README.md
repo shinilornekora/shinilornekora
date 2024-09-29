@@ -1,13 +1,19 @@
-### Currently I pursue the role of the frontend developer. 👋
+### Currently pursuing the role of the frontend developer. 👋
 
-20 y.o RUT(MIIT) 4th year student. </br>
+I am 20 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
 
-My work experience lasts for 2-3 years, I'm in love with the MERN stack and common UI-kits like Ant Design / Gravity UI. </br>
-Alongside my common tasks, I like to do some animations on react-spring / gasp library. </br>
-As for layout measures, I prefer to use css modules for proper style hashing, or some preprocessors like Sass / Less / Stylus. </br>
+Total work experience: 3 years
+Current workplace: FE in Yandex 360
+Favourite stack: MERN / MEVN
+Style tools: CSS-modules / SASS / Stylus
+UI-kit preferences: Ant Design / Gravity UI
 
-Aside from work, I like to play guitar, cook some interesting dishes and coctails)<br>
-I dream of visiting Japan someday, maybe open my own bar there. 😅
+Aside from programming, I enjoy:
+- Playing guitar
+- Cooking (especially interesting dishes)
+- Making coctails
+
+Wanna visit the Japan the next year and make some good memories! 😅
 <div>
   <h3>Languages</h3>
   <div>
@@ -27,7 +33,6 @@ I dream of visiting Japan someday, maybe open my own bar there. 😅
   <h3>Technologies</h3>
   <div>
     <img src="img/git.svg" title="Git" width="40" height="40"/>&nbsp;
-    <img src="img/github.svg" title="GitHub" width="40" height="40"/>&nbsp;
     <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
     <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
     <img src="img/webstorm.png" title="WebStorm" width="40" height="40"/>&nbsp;
