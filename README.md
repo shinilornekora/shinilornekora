@@ -1,6 +1,6 @@
 ### Currently I pursue the role of the frontend developer. 👋
 
-I'm last year IT student at Russian University Of Transport now. </br>
+20 y.o RUT(MIIT) 4th year student. </br>
 
 My work experience lasts for 2-3 years, I'm in love with the MERN stack and common UI-kits like Ant Design / Gravity UI. </br>
 Alongside my common tasks, I like to do some animations on react-spring / gasp library. </br>
