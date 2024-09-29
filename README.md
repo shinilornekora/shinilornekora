@@ -5,6 +5,7 @@ I am 20 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
 - Total work experience - 3 years
 - Current workplace - Yandex (Frontend Engineer)
 - Favourite stack - MERN / MEVN
+- Favourite IDE - Visual Studio Code
 - Style tools - CSS-modules / SASS / Stylus
 - UI-kit preferences - Ant Design / Gravity UI
 
@@ -32,9 +33,7 @@ Wanna visit the Japan the next year and make some good memories! 😅
   <h3>Technologies</h3>
   <div>
     <img src="img/git.svg" title="Git" width="40" height="40"/>&nbsp;
-    <img src="img/webstorm.png" title="WebStorm" width="40" height="40"/>&nbsp;
     <img src="img/8a045799766163.5efa31210a588.png" title="Figma" width="40" height="40"/>&nbsp;
     <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
-    <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
   </div>
 </div>
