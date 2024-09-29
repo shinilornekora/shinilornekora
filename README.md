@@ -2,11 +2,11 @@
 
 I am 20 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
 
-Total work experience: 3 years
-Current workplace: FE in Yandex 360
-Favourite stack: MERN / MEVN
-Style tools: CSS-modules / SASS / Stylus
-UI-kit preferences: Ant Design / Gravity UI
+- Total work experience: 3 years
+- Current workplace: FE in Yandex 360
+- Favourite stack: MERN / MEVN
+- Style tools: CSS-modules / SASS / Stylus
+- UI-kit preferences: Ant Design / Gravity UI
 
 Aside from programming, I enjoy:
 - Playing guitar
