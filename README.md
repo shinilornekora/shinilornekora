@@ -1,13 +1,13 @@
 ### Currently I pursue the role of the frontend developer. 👋
 
-I'm third year IT student at Russian University Of Transport now. </br>
+I'm last year IT student at Russian University Of Transport now. </br>
 
 My work experience lasts for 2-3 years, I'm in love with the MERN stack and common UI-kits like Ant Design / Gravity UI. </br>
 Alongside my common tasks, I like to do some animations on react-spring / gasp library. </br>
 As for layout measures, I prefer to use css modules for proper style hashing, or some preprocessors like Sass / Less / Stylus. </br>
 
 Aside from work, I like to play guitar, cook some interesting dishes and coctails)<br>
-I dream of visiting Japan someday, and open my own bar. 😅
+I dream of visiting Japan someday, maybe open my own bar there. 😅
 <div>
   <h3>Languages</h3>
   <div>
