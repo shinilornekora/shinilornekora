@@ -1,6 +1,6 @@
 ### Currently pursuing the role of the frontend developer. 👋
 
-I am 20 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
+I am 21 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
 
 - Total work experience - 3 years
 - Current workplace - Yandex (Frontend Engineer)
@@ -14,7 +14,7 @@ Aside from programming, I enjoy:
 - Cooking (especially interesting dishes)
 - Making coctails
 
-Wanna visit the Japan the next year and make some good memories! 😅
+Wanna visit the Japan this year and make some good memories! 😅
 <div>
   <h3>Languages</h3>
   <div>
