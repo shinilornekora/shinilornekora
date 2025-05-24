@@ -74,8 +74,8 @@
       <td><b>Style Tools</b></td>
       <td>
         <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
-        <img src="img/sass.svg" title="GravityUI" height="40"/>
-        <img src="img/stylus.svg" title="GravityUI" height="40"/>
+        <img src="img/sass.svg" title="SASS" height="40"/>
+        <img src="img/stylus.svg" title="Stylus" height="40"/>
         <td>CSS-modules  ·  SASS  ·  Stylus</td>
       </td>
     </tr>
