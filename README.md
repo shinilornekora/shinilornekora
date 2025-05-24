@@ -76,6 +76,7 @@ Aside from programming, I enjoy:
         <img src="img/kotlin.svg" title="Kotlin" width="40" height="40"/>
         <img src="img/java.svg" title="Java" width="40" height="40"/>
         <img src="img/python.svg" title="Python" width="40" height="40"/>
+        <img src="img/cplusplus.svg" title="Python" width="40" height="40"/>
       </td>
       <td>
         Kotlin, Java, Python
@@ -86,6 +87,7 @@ Aside from programming, I enjoy:
       <td>
         <img src="img/express.svg" title="Express" width="40" height="40"/>
         <img src="img/django.svg" title="Django" width="40" height="40"/>
+        <img src="img/spring.svg" title="Django" width="40" height="40"/>
       </td>
       <td>
         Express, Django
