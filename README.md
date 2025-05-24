@@ -40,6 +40,16 @@
       <td>React  ·  Vue  ·  Bootstrap  ·  Angular</td>
     </tr>
     <tr>
+      <td><b>Libraries</b></td>
+      <td>
+        <img src="img/redux.svg" title="Redux" width="40" height="40"/>
+        <img src="img/MobX.svg" title="MobX" width="40" height="40"/>
+        <img src="img/rxjs logo.svg" title="Rx.js" width="40" height="40"/>
+        <img src="img/lodash-logo.svg" title="Lodash" width="40" height="40"/>
+      </td>
+      <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash</td>
+    </tr>
+    <tr>
       <td><b>UI/Design</b></td>
       <td>
         <img src="img/8a045799766163.5efa31210a588.png" width="32" title="Figma"/>
