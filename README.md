@@ -63,8 +63,8 @@
       <td>
         <img src="img/cypress.svg" title="Cypress" height="40"/>
         <img src="img/playwrite.svg" title="Playwright" height="40"/>
-        <img src="img/jest.svg" title="Jest" height="40"/>
-        <img src="img/karma.svg" title="Karma" height="40"/>
+        <img src="img/Jest.svg" title="Jest" height="40"/>
+        <img src="img/Karma.svg" title="Karma" height="40"/>
         <img src="img/synon.svg" title="Synon" height="40"/>
         <img src="img/enzyme.svg" title="Enzyme" height="40"/>
         <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
@@ -74,8 +74,8 @@
       <td><b>Style Tools</b></td>
       <td>
         <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
-        <img src="img/sass.svg" title="SASS" height="40"/>
-        <img src="img/stylus.svg" title="Stylus" height="40"/>
+        <img src="img/Sass.svg" title="SASS" height="40"/>
+        <img src="img/Stylus.svg" title="Stylus" height="40"/>
         <td>CSS-modules  ·  SASS  ·  Stylus</td>
       </td>
     </tr>
@@ -97,27 +97,27 @@
     <tr>
       <td><b>Languages</b></td>
       <td>
-        <img src="img/kotlin.svg" width="32" title="Kotlin"/>
-        <img src="img/java.svg" width="32" title="Java"/>
-        <img src="img/python.svg" width="32" title="Python"/>
-        <img src="img/cplusplus.svg" width="32" title="C++"/>
+        <img src="img/kotlin.svg" width="40" height="40" title="Kotlin"/>
+        <img src="img/java.svg" width="40" height="40" title="Java"/>
+        <img src="img/python.svg" width="40" height="40" title="Python"/>
+        <img src="img/cplusplus.svg" width="40" height="40" title="C++"/>
       </td>
       <td>Kotlin  ·  Java  ·  Python  ·  C++</td>
     </tr>
     <tr>
       <td><b>Frameworks</b></td>
       <td>
-        <img src="img/express-logo.svg" width="32" title="Express"/>
-        <img src="img/django.svg" width="32" title="Django"/>
-        <img src="img/spring.svg" width="32" title="Spring"/>
+        <img src="img/express-logo.svg"width="40" height="40" title="Express"/>
+        <img src="img/Django.svg" width="40" height="40" title="Django"/>
+        <img src="img/spring.svg" width="40" height="40" title="Spring"/>
       </td>
       <td>Express  ·  Django  ·  Spring</td>
     </tr>
     <tr>
       <td><b>Tech</b></td>
       <td>
-        <img src="img/git.svg" width="32" title="Git"/>
-        <img src="img/docker.svg" width="32" title="Docker"/>
+        <img src="img/git.svg" width="40" height="40" title="Git"/>
+        <img src="img/docker.svg" width="40" height="40" title="Docker"/>
       </td>
       <td>Git  ·  Docker</td>
     </tr>
