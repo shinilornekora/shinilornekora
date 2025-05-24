@@ -62,7 +62,7 @@
       <td><b>Testing tools</b></td>
       <td>
         <img src="img/cypress.svg" title="Cypress" height="40"/>
-        <img src="img/playwright.svg" title="Playwright" height="40"/>
+        <img src="img/playwrite.svg" title="Playwright" height="40"/>
         <img src="img/jest.svg" title="Jest" height="40"/>
         <img src="img/karma.svg" title="Karma" height="40"/>
         <img src="img/synon.svg" title="Synon" height="40"/>
@@ -107,7 +107,7 @@
     <tr>
       <td><b>Frameworks</b></td>
       <td>
-        <img src="img/express.svg" width="32" title="Express"/>
+        <img src="img/express-logo.svg" width="32" title="Express"/>
         <img src="img/django.svg" width="32" title="Django"/>
         <img src="img/spring.svg" width="32" title="Spring"/>
       </td>
