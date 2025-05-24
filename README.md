@@ -50,22 +50,29 @@
       <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash</td>
     </tr>
     <tr>
-      <td><b>UI/Design</b></td>
+      <td><b>UI-kits/Design tools</b></td>
       <td>
-        <img src="img/8a045799766163.5efa31210a588.png" width="32" title="Figma"/>
+        <img src="img/figma.svg" title="Figma" width="40" height="40"/>
         <img src="img/ant.svg" title="Ant Design" width="40" height="40"/>
         <img src="img/gravity-1.svg" title="GravityUI" height="40"/>
       </td>
       <td>Figma ·  Ant Design  ·  GravityUI</td>
     </tr>
     <tr>
-      <td><b>UI Kits</b></td>
-      <td></td>
-      <td>Ant Design  ·  Gravity UI</td>
+      <td><b>Testing tools</b></td>
+      <img src="img/cypress.svg" title="Cypress" height="40"/>
+      <img src="img/playwright.svg" title="Playwright" height="40"/>
+      <img src="img/jest.svg" title="Jest" height="40"/>
+      <img src="img/karma.svg" title="Karma" height="40"/>
+      <img src="img/synon.svg" title="Synon" height="40"/>
+      <img src="img/enzyme.svg" title="Enzyme" height="40"/>
+      <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
     </tr>
     <tr>
       <td><b>Style Tools</b></td>
-      <td></td>
+      <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
+      <img src="img/sass.svg" title="GravityUI" height="40"/>
+      <img src="img/stylus.svg" title="GravityUI" height="40"/>
       <td>CSS-modules  ·  SASS  ·  Stylus</td>
     </tr>
   </tbody>
