@@ -54,7 +54,7 @@
     <tr>
       <td><b>UI-kits/Design tools</b></td>
       <td>
-        <img src="img/figma.svg" title="Figma" width="40" height="40"/>
+        <img src="img/Figma.svg" title="Figma" width="40" height="40"/>
         <img src="img/ant.svg" title="Ant Design" width="40" height="40"/>
         <img src="img/gravity-1.svg" title="GravityUI" height="40"/>
       </td>
