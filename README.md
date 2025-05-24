@@ -67,8 +67,6 @@
         <img src="img/playwrite.svg" title="Playwright" height="40"/>
         <img src="img/Jest.svg" title="Jest" height="40"/>
         <img src="img/Karma.svg" title="Karma" height="40"/>
-        <img src="img/synon.svg" title="Synon" height="40"/>
-        <img src="img/enzyme.svg" title="Enzyme" height="40"/>
         <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
       </td>
     </tr>
