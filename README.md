@@ -49,7 +49,7 @@
         <img src="img/Webpack.svg" title="Webpack" width="40" height="40"/>
         <img src="img/Vite.js.svg" title="Vite" width="40" height="40"/>
       </td>
-      <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash</td>
+      <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash  ·  Webpack  ·  Vite</td>
     </tr>
     <tr>
       <td><b>UI-kits/Design tools</b></td>
