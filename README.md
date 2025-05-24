@@ -46,6 +46,8 @@
         <img src="img/MobX.svg" title="MobX" width="40" height="40"/>
         <img src="img/rxjs logo.svg" title="Rx.js" width="40" height="40"/>
         <img src="img/lodash-logo.svg" title="Lodash" width="40" height="40"/>
+        <img src="img/Webpack.svg" title="Webpack" width="40" height="40"/>
+        <img src="img/Vite.js.svg" title="Vite" width="40" height="40"/>
       </td>
       <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash</td>
     </tr>
