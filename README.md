@@ -60,20 +60,24 @@
     </tr>
     <tr>
       <td><b>Testing tools</b></td>
-      <img src="img/cypress.svg" title="Cypress" height="40"/>
-      <img src="img/playwright.svg" title="Playwright" height="40"/>
-      <img src="img/jest.svg" title="Jest" height="40"/>
-      <img src="img/karma.svg" title="Karma" height="40"/>
-      <img src="img/synon.svg" title="Synon" height="40"/>
-      <img src="img/enzyme.svg" title="Enzyme" height="40"/>
-      <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
+      <td>
+        <img src="img/cypress.svg" title="Cypress" height="40"/>
+        <img src="img/playwright.svg" title="Playwright" height="40"/>
+        <img src="img/jest.svg" title="Jest" height="40"/>
+        <img src="img/karma.svg" title="Karma" height="40"/>
+        <img src="img/synon.svg" title="Synon" height="40"/>
+        <img src="img/enzyme.svg" title="Enzyme" height="40"/>
+        <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
+      </td>
     </tr>
     <tr>
       <td><b>Style Tools</b></td>
-      <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
-      <img src="img/sass.svg" title="GravityUI" height="40"/>
-      <img src="img/stylus.svg" title="GravityUI" height="40"/>
-      <td>CSS-modules  ·  SASS  ·  Stylus</td>
+      <td>
+        <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
+        <img src="img/sass.svg" title="GravityUI" height="40"/>
+        <img src="img/stylus.svg" title="GravityUI" height="40"/>
+        <td>CSS-modules  ·  SASS  ·  Stylus</td>
+      </td>
     </tr>
   </tbody>
 </table>
