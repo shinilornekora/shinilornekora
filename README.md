@@ -1,107 +1,118 @@
-### Currently pursuing the role of the frontend developer. 👋
+# 🚀 Currently pursuing the role of the frontend developer
 
-I am 21 y.o RUT(MIIT) 4th year student, currently working as FE in Yandex. </br>
 
-- Total work experience - 3 years
-- Current workplace - Yandex (Frontend Engineer)
-- Favourite stack - MERN / MEVN
-- Favourite IDE - Visual Studio Code
-- Style tools - CSS-modules / SASS / Stylus
-- UI-kit preferences - Ant Design / Gravity UI
+> 👨‍🎓 21 y.o, RUT(MIIT), 4th year student  
+> 🏢 Frontend Engineer @ Yandex  
+> 💼 3 years experience
 
-Aside from programming, I enjoy:
+
+## 🔥 Stack
+
+
+<!-- Frontend -->
+<table>
+  <thead>
+    <tr>
+      <th align="left"><h3>Frontend</h3></th>
+      <th align="center"></th>
+      <th align="left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="img/typescript.svg" width="32" title="TypeScript"/>
+        <img src="img/javascript.svg" width="32" title="JavaScript"/>
+        <img src="img/HTML5.svg" width="32" title="HTML"/>
+        <img src="img/CSS3.svg" width="32" title="CSS"/>
+      </td>
+      <td>TypeScript  ·  JavaScript  ·  HTML  ·  CSS</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="img/react.svg" width="32" title="React"/>
+        <img src="img/vue-1.svg" width="32" title="Vue"/>
+        <img src="img/bootstrap.svg" width="32" title="Bootstrap"/>
+        <img src="img/angularjs.svg" width="32" title="Angular"/>
+      </td>
+      <td>React  ·  Vue  ·  Bootstrap  ·  Angular</td>
+    </tr>
+    <tr>
+      <td><b>UI/Design</b></td>
+      <td>
+        <img src="img/8a045799766163.5efa31210a588.png" width="32" title="Figma"/>
+      </td>
+      <td>Figma</td>
+    </tr>
+    <tr>
+      <td><b>UI Kits</b></td>
+      <td></td>
+      <td>Ant Design  ·  Gravity UI</td>
+    </tr>
+    <tr>
+      <td><b>Style Tools</b></td>
+      <td></td>
+      <td>CSS-modules  ·  SASS  ·  Stylus</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<!-- Backend -->
+<table>
+  <thead>
+    <tr>
+      <th align="left"><h3>Backend / General</h3></th>
+      <th align="center"></th>
+      <th align="left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="img/kotlin.svg" width="32" title="Kotlin"/>
+        <img src="img/java.svg" width="32" title="Java"/>
+        <img src="img/python.svg" width="32" title="Python"/>
+        <img src="img/cplusplus.svg" width="32" title="C++"/>
+      </td>
+      <td>Kotlin  ·  Java  ·  Python  ·  C++</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="img/express.svg" width="32" title="Express"/>
+        <img src="img/django.svg" width="32" title="Django"/>
+        <img src="img/spring.svg" width="32" title="Spring"/>
+      </td>
+      <td>Express  ·  Django  ·  Spring</td>
+    </tr>
+    <tr>
+      <td><b>Tech</b></td>
+      <td>
+        <img src="img/git.svg" width="32" title="Git"/>
+        <img src="img/docker.svg" width="32" title="Docker"/>
+      </td>
+      <td>Git  ·  Docker</td>
+    </tr>
+  </tbody>
+</table>
+
+## ⚡️ About Me
+
+- Favourite stack: **MERN / MEVN**
+- Favourite IDE: **VS Code**
+
+### 🎸 Aside from programming, I enjoy:
 - Playing guitar
 - Cooking (especially interesting dishes)
-- Making coctails
+- Making cocktails
 
-<!-- Мечта! -->
-<p>Wanna visit the Japan this year and make some good memories! 😅</p>
+---
 
-<!-- Таблица инструментов -->
+## 🌏 Dream
 
-<!-- Frontend Table -->
-<table border="1" cellspacing="0" cellpadding="7">
-  <thead>
-    <tr>
-      <th colspan="3" style="background:#f0f8ff">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Languages</b></td>
-      <td>
-        <img src="img/typescript.svg" title="TypeScript" width="40" height="40"/>
-        <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>
-      </td>
-      <td>
-        TypeScript, JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td><b>Frameworks</b></td>
-      <td>
-        <img src="img/react.svg" title="React" width="40" height="40"/>
-        <img src="img/vue-1.svg" title="Vue" width="40" height="40"/>
-        <img src="img/bootstrap.svg" title="Bootstrap" width="40" height="40"/>
-      </td>
-      <td>
-        React, Vue, Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td><b>Tech</b></td>
-      <td>
-        <img src="img/8a045799766163.5efa31210a588.png" title="Figma" width="40" height="40"/>
-      </td>
-      <td>
-        Figma
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<!-- Backend/General Table -->
-<table border="1" cellspacing="0" cellpadding="7">
-  <thead>
-    <tr>
-      <th colspan="3" style="background:#f8faff">Backend / General</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Languages</b></td>
-      <td>
-        <img src="img/kotlin.svg" title="Kotlin" width="40" height="40"/>
-        <img src="img/java.svg" title="Java" width="40" height="40"/>
-        <img src="img/python.svg" title="Python" width="40" height="40"/>
-        <img src="img/cplusplus.svg" title="Python" width="40" height="40"/>
-      </td>
-      <td>
-        Kotlin, Java, Python
-      </td>
-    </tr>
-    <tr>
-      <td><b>Frameworks</b></td>
-      <td>
-        <img src="img/express.svg" title="Express" width="40" height="40"/>
-        <img src="img/django.svg" title="Django" width="40" height="40"/>
-        <img src="img/spring.svg" title="Django" width="40" height="40"/>
-      </td>
-      <td>
-        Express, Django
-      </td>
-    </tr>
-    <tr>
-      <td><b>Tech</b></td>
-      <td>
-        <img src="img/git.svg" title="Git" width="40" height="40"/>
-        <img src="img/docker.svg" title="Docker" width="40" height="40"/>
-      </td>
-      <td>
-        Git, Docker
-      </td>
-    </tr>
-  </tbody>
-</table>
+> Wanna visit Japan this year and make some good memories! 😅
