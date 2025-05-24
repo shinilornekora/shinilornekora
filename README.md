@@ -53,8 +53,10 @@
       <td><b>UI/Design</b></td>
       <td>
         <img src="img/8a045799766163.5efa31210a588.png" width="32" title="Figma"/>
+        <img src="img/ant.svg" title="Ant Design" width="40" height="40"/>
+        <img src="img/gravity.svg" title="GravityUI" width="40" height="40"/>
       </td>
-      <td>Figma</td>
+      <td>Figma ·  Ant Design  ·  GravityUI</td>
     </tr>
     <tr>
       <td><b>UI Kits</b></td>
