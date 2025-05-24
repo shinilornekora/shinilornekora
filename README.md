@@ -34,8 +34,8 @@
       <td>
         <img src="img/react.svg" width="32" title="React"/>
         <img src="img/vue-1.svg" width="32" title="Vue"/>
-        <img src="img/bootstrap.svg" width="32" title="Bootstrap"/>
         <img src="img/angularjs.svg" width="32" title="Angular"/>
+        <img src="img/bootstrap.svg" width="32" title="Bootstrap"/>
       </td>
       <td>React  ·  Vue  ·  Bootstrap  ·  Angular</td>
     </tr>
