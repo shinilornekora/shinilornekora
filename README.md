@@ -75,7 +75,7 @@
     <tr>
       <td><b>Style Tools</b></td>
       <td>
-        <img src="img/cssmodules.svg" title="CSS-Modules" height="40"/>
+        <img src="img/css-modules-logo.svg" title="CSS-Modules" height="40"/>
         <img src="img/Sass.svg" title="SASS" height="40"/>
         <img src="img/Stylus.svg" title="Stylus" height="40"/>
         <td>CSS-modules  ·  SASS  ·  Stylus</td>
