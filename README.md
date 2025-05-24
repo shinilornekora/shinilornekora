@@ -20,6 +20,8 @@ Wanna visit the Japan this year and make some good memories! 😅
   <div>
     <img src="img/typescript.svg" title="TypeScript" width="40" height="40"/>&nbsp;
     <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="img/kotlin.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="img/java.svg" title="JavaScript" width="40" height="40"/>&nbsp;
     <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
   </div>
   <h3>Frameworks</h3>
