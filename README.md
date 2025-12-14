@@ -138,4 +138,6 @@
 
 ## 🌏 Dream
 
-> Wanna visit Japan this year and make some good memories! 😅
+> ~~Wanna visit Japan this year and make some good memories! 😅~~ visited, that was delightfull!
+> Wanna visit China and make some good memories!
+> 
