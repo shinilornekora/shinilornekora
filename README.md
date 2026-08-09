@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4f46e5,100:06b6d4&text=Andrew%20Orlov&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20TypeScript%20enthusiast&descAlignY=58&animation=fadeIn" alt="Andrew Orlov — Frontend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4f46e5,100:06b6d4&text=Shiniasse&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20TypeScript%20enthusiast&descAlignY=58&animation=fadeIn" alt="Andrew Orlov — Frontend Engineer" />
 
-# 🚀 Currently pursuing the role of the frontend developer
+## 🚀 Currently pursuing the role of the frontend developer
 
 
 > 👨‍🎓 22 y.o, RUT(MIIT), Bachelor of Computer Science, 1st grade of Master degree  
