@@ -16,7 +16,7 @@
 
 <p>
   Crafting interfaces that feel fast, intentional, and a little bit playful.<br/>
-  ~3 years shipping frontend · side quests in games, tooling & distributed services.
+  3+ years shipping frontend at Yandex (since May 2023) · side quests in games, tooling & services.
 </p>
 
 </div>
@@ -55,7 +55,7 @@
 ```text
 Favourite stacks ...... MERN / MEVN · React + Vite · Vue + Effector
 IDE ................... VS Code (and friends)
-Currently ............. Frontend @ Yandex · Moscow
+Currently ............. Frontend @ Yandex · Moscow (since May 2023)
 Education ............. RUT (MIIT)
 ```
 
