@@ -67,16 +67,16 @@
         <b>AI tooling</b><br />
         <code>Cursor</code> <code>Claude Code</code> <code>Codex</code> <code>OpenCode</code>
       </p>
+      <p>
+        <b>Preferences</b><br />
+        Stack: <code>MERN</code> <code>MEVN</code><br />
+        IDE: <code>VS Code</code>
+      </p>
     </td>
   </tr>
 </table>
 
-## ⚡️ About Me
-
-- Favourite stack: **MERN / MEVN**
-- Favourite IDE: **VS Code**
-
-### 🎸 Aside from programming, I enjoy:
+## 🎸 Beyond Code
 - Playing guitar
 - Cooking (especially interesting dishes)
 - Making cocktails
