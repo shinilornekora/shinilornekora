@@ -81,10 +81,16 @@
 - Cooking (especially interesting dishes)
 - Making cocktails
 
----
+## 🌏 Dreams
 
-## 🌏 Dream
+<details open>
+  <summary><b>🎯 Active dream</b></summary>
+  <br />
+  Visit China and make unforgettable memories.
+</details>
 
-> ~~Wanna visit Japan this year and make some good memories! 😅~~ visited, that was delightfull!
-> Wanna visit China and make some good memories!
-> 
+<details>
+  <summary><b>✅ Accomplished dream</b></summary>
+  <br />
+  Visited Japan — and it was delightful!
+</details>
