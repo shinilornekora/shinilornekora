@@ -1,60 +1,145 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4f46e5,100:06b6d4&text=Andrew%20Orlov&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20TypeScript%20enthusiast&descAlignY=58&animation=fadeIn" alt="Andrew Orlov — Frontend Engineer" />
 
-<p align="center">
-  <a href="https://github.com/shinilornekora">
-    <img src="https://img.shields.io/badge/Moscow-111827?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Moscow" />
-  </a>
-  <a href="https://yandex.com/company/">
-    <img src="https://img.shields.io/badge/Frontend_Engineer-111827?style=for-the-badge&logo=yandex&logoColor=ffcc00" alt="Frontend Engineer at Yandex" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shinilornekora&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+# 🚀 Currently pursuing the role of the frontend developer
 
-## Hi there 👋
 
-I'm a frontend engineer at **Yandex** from Moscow, focused on building thoughtful, reliable interfaces with **TypeScript**.
+> 👨‍🎓 22 y.o, RUT(MIIT), Bachelor of Computer Science, 1st grade of Master degree  
+> 🏢 Frontend Engineer @ Yandex  
+> 💼 3 years experience
 
-- 🎓 Computer Science graduate and Master's student at **RUT (MIIT)**
-- 🧩 I enjoy turning complex product requirements into simple user experiences
-- ⚙️ Interested in frontend architecture, design systems and developer tooling
-- 🌏 Visited Japan — China is next on the list
 
-## Tech stack
+## 🔥 Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,redux,rxjs,vite,webpack,html,css,sass&perline=11" alt="Frontend technologies" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,kotlin,java,spring,docker,git,figma,jest&perline=11" alt="Backend, tooling and design technologies" />
-</p>
 
-`TypeScript` · `React` · `Vue` · `Redux` · `RxJS` · `Node.js` · `Jest` · `Playwright` · `Docker`
+<!-- Frontend -->
+<table>
+  <thead>
+    <tr>
+      <th align="left"><h3>Frontend</h3></th>
+      <th align="center"></th>
+      <th align="left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="img/typescript.svg" width="32" title="TypeScript"/>
+        <img src="img/javascript.svg" width="32" title="JavaScript"/>
+        <img src="img/HTML5.svg" width="32" title="HTML"/>
+        <img src="img/CSS3.svg" width="32" title="CSS"/>
+      </td>
+      <td>TypeScript  ·  JavaScript  ·  HTML  ·  CSS</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="img/react.svg" width="32" title="React"/>
+        <img src="img/vue-1.svg" width="32" title="Vue"/>
+        <img src="img/angularjs.svg" width="32" title="Angular"/>
+        <img src="img/bootstrap.svg" width="32" title="Bootstrap"/>
+      </td>
+      <td>React  ·  Vue  ·  Bootstrap  ·  Angular</td>
+    </tr>
+    <tr>
+      <td><b>Loved libraries</b></td>
+      <td>
+        <img src="img/redux.svg" title="Redux" width="40" height="40"/>
+        <img src="img/MobX.svg" title="MobX" width="40" height="40"/>
+        <img src="img/rxjs logo.svg" title="Rx.js" width="40" height="40"/>
+        <img src="img/lodash-logo.svg" title="Lodash" width="40" height="40"/>
+        <img src="img/Webpack.svg" title="Webpack" width="40" height="40"/>
+        <img src="img/Vite.js.svg" title="Vite" width="40" height="40"/>
+      </td>
+      <td>Redux  ·  MobX  ·  Rx.js  ·  Lodash  ·  Webpack  ·  Vite</td>
+    </tr>
+    <tr>
+      <td><b>UI-kits/Design tools</b></td>
+      <td>
+        <img src="img/ant.svg" title="Ant Design" width="40" height="40"/>
+        <img src="img/gravity-1.svg" title="GravityUI" height="40"/>
+        <img src="img/Figma.svg" title="Figma" width="40" height="40"/>
+      </td>
+      <td>Figma ·  Ant Design  ·  GravityUI</td>
+    </tr>
+    <tr>
+      <td><b>Testing tools</b></td>
+      <td>
+        <img src="img/cypress.svg" title="Cypress" height="40"/>
+        <img src="img/playwrite.svg" title="Playwright" height="40"/>
+        <img src="img/Jest.svg" title="Jest" height="40"/>
+        <img src="img/Karma.svg" title="Karma" height="40"/>
+        <td>Cypress  ·  Playwright   ·  Jest  ·  Karma   ·   Synon   ·  Enzyme</td>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Style Tools</b></td>
+      <td>
+        <img src="img/css-modules-logo.svg" title="CSS-Modules" height="40"/>
+        <img src="img/Sass.svg" title="SASS" height="40"/>
+        <img src="img/Stylus.svg" title="Stylus" height="40"/>
+        <td>CSS-modules  ·  SASS  ·  Stylus</td>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## What I'm building
+<br>
 
-### [Flashback](https://github.com/shinilornekora/flashback)
+<!-- Backend -->
+<table>
+  <thead>
+    <tr>
+      <th align="left"><h3>Backend / General</h3></th>
+      <th align="center"></th>
+      <th align="left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="img/kotlin.svg" width="40" height="40" title="Kotlin"/>
+        <img src="img/java.svg" width="40" height="40" title="Java"/>
+        <img src="img/python.svg" width="40" height="40" title="Python"/>
+        <img src="img/cplusplus.svg" width="40" height="40" title="C++"/>
+      </td>
+      <td>Kotlin  ·  Java  ·  Python  ·  C++</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="img/express-logo.svg"width="40" height="40" title="Express"/>
+        <img src="img/Django.svg" width="40" height="40" title="Django"/>
+        <img src="img/spring.svg" width="40" height="40" title="Spring"/>
+      </td>
+      <td>Express  ·  Django  ·  Spring</td>
+    </tr>
+    <tr>
+      <td><b>Tech</b></td>
+      <td>
+        <img src="img/git.svg" width="40" height="40" title="Git"/>
+        <img src="img/docker.svg" width="40" height="40" title="Docker"/>
+      </td>
+      <td>Git  ·  Docker</td>
+    </tr>
+  </tbody>
+</table>
 
-A cross-platform VPN system with desktop and Android clients, a shared React UI, control services and reproducible infrastructure.
+## ⚡️ About Me
 
-`TypeScript` `React` `Electron` `Capacitor` `Kotlin` `Docker`
+- Favourite stack: **MERN / MEVN**
+- Favourite IDE: **VS Code**
 
-## GitHub at a glance
+### 🎸 Aside from programming, I enjoy:
+- Playing guitar
+- Cooking (especially interesting dishes)
+- Making cocktails
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&hide_border=true&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=e5e7eb&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&hide_border=true&bg_color=00000000&title_color=4f46e5&icon_color=0891b2&text_color=374151&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&hide_border=true&rank_icon=github" alt="Andrew's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shinilornekora&layout=compact&hide_border=true&bg_color=00000000&title_color=818cf8&text_color=e5e7eb&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shinilornekora&layout=compact&hide_border=true&bg_color=00000000&title_color=4f46e5&text_color=374151&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinilornekora&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" />
-  </picture>
-</p>
+---
 
-## Beyond code
+## 🌏 Dream
 
-🎸 Playing guitar · 🍳 Cooking unusual dishes · 🍸 Mixing cocktails · ✈️ Travelling
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:4f46e5,100:111827&section=footer" alt="" />
+> ~~Wanna visit Japan this year and make some good memories! 😅~~ visited, that was delightfull!
+> Wanna visit China and make some good memories!
+> 
