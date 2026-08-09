@@ -29,7 +29,12 @@
       </p>
       <p>
         <b>State &amp; data flow</b><br />
-        <code>Redux</code> <code>RxJS</code>
+        <code>Redux</code> <code>Effector</code> <code>RxJS</code>
+      </p>
+      <p>
+        <b>Graphics &amp; real-time</b><br />
+        <code>Three.js</code> <code>WebXR</code> <code>Canvas</code>
+        <code>WebRTC</code> <code>Web Audio</code>
       </p>
       <p>
         <b>UI &amp; styling</b><br />
@@ -50,7 +55,8 @@
       </p>
       <p>
         <b>Languages</b><br />
-        <code>TypeScript</code> <code>Python</code> <code>Kotlin</code> <code>Java</code>
+        <code>TypeScript</code> <code>Go</code> <code>Python</code>
+        <code>Kotlin</code> <code>Java</code>
       </p>
       <p>
         <b>Runtime &amp; frameworks</b><br />
@@ -64,7 +70,11 @@
       <p>
         <b>DevOps &amp; tooling</b><br />
         <code>Git</code> <code>Docker</code> <code>GitHub Actions</code>
-        <code>pnpm</code> <code>npm</code>
+        <code>Kubernetes</code> <code>Jenkins</code> <code>pnpm</code> <code>npm</code>
+      </p>
+      <p>
+        <b>APIs &amp; messaging</b><br />
+        <code>REST</code> <code>GraphQL</code> <code>gRPC</code> <code>RabbitMQ</code>
       </p>
       <p>
         <b>Data</b><br />
@@ -87,7 +97,7 @@
   <summary><b>🗃️ Legacy technologies</b></summary>
   <br />
   <code>Angular</code> <code>Bootstrap</code> <code>MobX</code>
-  <code>Lodash</code> <code>Stylus</code> <code>Karma</code>
+  <code>Svelte</code> <code>Lodash</code> <code>Stylus</code> <code>Karma</code>
   <code>Sinon</code> <code>Enzyme</code> <code>Spring</code> <code>C++</code>
 </details>
 
