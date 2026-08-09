@@ -1,24 +1,52 @@
+<div align="center">
+
 # Andrew Orl
+### Frontend Engineer @ Yandex
 
-Frontend engineer at [Yandex](https://ya.ru). Based in Moscow. Mostly TypeScript.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=TypeScript+enthusiast;React+%7C+Vue+%7C+Three.js+%7C+Node;Moscow+%C2%B7+RUT+(MIIT)" alt="Typing SVG" />
 
-Been on the frontend team since May 2023.
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/shinilornekora?style=for-the-badge&logo=github&color=238636&logoColor=white)](https://github.com/shinilornekora)
+[![Location](https://img.shields.io/badge/Moscow-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)](https://github.com/shinilornekora)
+[![Company](https://img.shields.io/badge/Yandex-0D1117?style=for-the-badge&logo=yandex&logoColor=FC3F1D)](https://ya.ru)
+[![Education](https://img.shields.io/badge/RUT%20(MIIT)-0D1117?style=for-the-badge&logo=googleacademic&logoColor=58A6FF)](https://www.miit.ru)
+
+<br/>
+
+<p>
+  Frontend at Yandex since May 2023.<br/>
+  Mostly TypeScript. Side projects when there's time.
+</p>
+
+</div>
 
 ---
 
 ## Stack
 
+<div align="center">
+
+### Frontend day-to-day
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,redux,vite,webpack,nodejs,sass,figma,docker" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,angular,redux,vite,webpack,sass,figma" alt="Frontend skills" />
 </p>
 
-| | |
+### Also comfortable with
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,threejs,kotlin,java,python,spring,docker,git,jest,githubactions,svelte" alt="General skills" />
+</p>
+
+</div>
+
+| Area | Tools |
 | --- | --- |
-| **UI / state** | React, Vue, Angular · Redux, MobX, Effector, Zustand, RxJS |
-| **UI kits** | Gravity UI, Ant Design · Figma |
-| **Tooling** | Vite, Webpack · Playwright, Cypress, Jest, Storybook |
+| **UI & state** | React, Vue, Angular · Redux, MobX, Effector, Zustand, RxJS |
+| **Design systems** | Gravity UI, Ant Design · Figma |
+| **Build & quality** | Vite, Webpack · Playwright, Cypress, Jest, Storybook |
 | **Styles** | CSS Modules, Sass, Stylus |
-| **Also** | Node, Express · Kotlin · Java / Spring · Python · Docker |
+| **Backend / mobile** | Node, Express · Kotlin · Java / Spring · Python / Django |
+| **Infra** | Git, Docker, CI basics |
 
 ---
 
