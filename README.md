@@ -3,7 +3,7 @@
 # Andrew Orl
 ### Frontend Engineer @ Yandex
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=TypeScript+enthusiast;Building+polished+UI+%26+product+experiences;React+%7C+Vue+%7C+Electron+%7C+Android" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=TypeScript+enthusiast;Building+polished+UI+%26+product+experiences;React+%7C+Vue+%7C+Three.js+%7C+Node" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <p>
   Crafting interfaces that feel fast, intentional, and a little bit playful.<br/>
-  ~3 years shipping frontend · open to interesting side quests in systems & games.
+  ~3 years shipping frontend · side quests in games, tooling & distributed services.
 </p>
 
 </div>
@@ -25,61 +25,28 @@
 
 ## Featured work
 
-Projects I care about most — product depth, unusual UX, or solid engineering.
+Public projects with real substance — architecture, UX, or systems depth.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shinilornekora/flashback-desktop">Flashback</a></h3>
+      <h3><a href="https://github.com/shinilornekora/st-front">st-front</a></h3>
       <p>
-        Cross-platform VPN client: <b>Electron</b> desktop (proxy / TUN) + <b>Android VpnService</b> via Capacitor.
-        Shared TypeScript domain, xray config pipeline, and native tunnels.
-      </p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      </p>
-      <p>
-        <a href="https://github.com/shinilornekora/flashback-desktop">Desktop</a> ·
-        <a href="https://github.com/shinilornekora/flashback-android">Android</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shinilornekora/Melentiy">Melentiy</a></h3>
-      <p>
-        LLM-powered website layout constructor. From a short brief → architecture,
-        dependencies, scaffold, and a runnable project — automation around the “blank canvas” problem.
-      </p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img alt="GPT" src="https://img.shields.io/badge/LLM%20%2F%20GPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-        <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shinilornekora/MeasureYourCast">MeasureYourCast</a></h3>
-      <p>
-        Hardcore multiplayer spell-casting game: gesture patterns on canvas, backfire risk,
-        and real-time fights over <b>WebRTC</b> P2P.
+        Vue 3 storefront on Feature-Sliced Design: products, cart, orders, auth,
+        seller flows. Contract-driven API layer + mock server, Storybook, Vitest.
       </p>
       <p>
         <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img alt="Effector" src="https://img.shields.io/badge/Effector-FF007F?style=flat-square"/>
-        <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img alt="FSD" src="https://img.shields.io/badge/FSD-0D1117?style=flat-square"/>
+        <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/shinilornekora/pulse-arena">Neon Pulse Arena</a></h3>
       <p>
-        Browser rhythm FPS / WebXR prototype: beatmap-driven enemy waves in a neon arena,
-        raycast combat, combo HP — desktop + Quest-ready immersive mode.
+        Browser rhythm FPS / WebXR prototype: beatmap-driven waves, raycast combat,
+        audio pipeline (procedural + OGG), immersive mode for Quest-class headsets.
       </p>
       <p>
         <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
@@ -91,46 +58,73 @@ Projects I care about most — product depth, unusual UX, or solid engineering.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shinilornekora/family-tree">Family Tree</a></h3>
+      <h3><a href="https://github.com/shinilornekora/Aristarh">Aristarh</a></h3>
       <p>
-        Interactive family tree builder & visualizer — zoom/pan canvas, graph editing,
-        and a clean UX for exploring relationships.
+        Visual website constructor: live UI editing, Svelte project export,
+        modular React client (pages, shared UI kit, API). GPT assist for templates.
       </p>
       <p>
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img alt="React Flow" src="https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square"/>
-        <img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?style=flat-square"/>
+        <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/shinilornekora/automated-dependency-system">ADS</a></h3>
       <p>
-        Automated Dependency System (DDD-style CLI): CVE scanning on build,
-        unused-dep cleanup, peer conflict resolution — fewer “npm install” headaches.
+        Automated Dependency System — DDD-style TypeScript CLI with tests:
+        CVE checks on build, unused-dep cleanup, peer conflict resolution.
       </p>
       <p>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
         <img alt="DDD" src="https://img.shields.io/badge/DDD-0D1117?style=flat-square"/>
-        <img alt="CLI" src="https://img.shields.io/badge/CLI-238636?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shinilornekora/Apsilon">Apsilon</a></h3>
+      <p>
+        Template publish service for learning gRPC-shaped architecture:
+        Express + GraphQL + RabbitMQ, Java gateway / client microservices, Docker.
+      </p>
+      <p>
+        <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+        <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shinilornekora/MeasureYourCast">MeasureYourCast</a></h3>
+      <p>
+        Multiplayer gesture-spell arena: canvas casting with backfire risk,
+        Effector stores, WebRTC P2P combat + signaling server.
+      </p>
+      <p>
+        <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img alt="Effector" src="https://img.shields.io/badge/Effector-FF007F?style=flat-square"/>
+        <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>More projects worth a look</b></summary>
+  <summary><b>More public experiments</b></summary>
   <br/>
 
   | Project | What it is |
   | --- | --- |
-  | [Aristarh](https://github.com/shinilornekora/Aristarh) | Visual website constructor with Svelte export + GPT assist |
-  | [Apsilon](https://github.com/shinilornekora/Apsilon) | Template publish service — gRPC, GraphQL, RabbitMQ |
-  | [st-front](https://github.com/shinilornekora/st-front) | Vue storefront with contract-driven mock API |
-  | [rpg-clicker](https://github.com/shinilornekora/rpg-clicker) | Round-based RPG clicker with shop & upgrades |
-  | [LogiTrack](https://github.com/shinilornekora/LogiTrack) | Concurrent document logging & upload (Java) |
+  | [rpg-clicker](https://github.com/shinilornekora/rpg-clicker) | Round-based RPG clicker — combat, shop, upgrades |
   | [tiffany](https://github.com/shinilornekora/tiffany) | Frontend service for Team Entropy |
+  | [ValuteConverter](https://github.com/shinilornekora/ValuteConverter) | Multi-tech demo wiring several stacks together |
+  | [blog](https://github.com/shinilornekora/blog) | Angular blog playground |
+  | [Navigator](https://github.com/shinilornekora/Navigator) | Pathfinding / navigation via classic algorithms |
 
 </details>
 
@@ -147,7 +141,7 @@ Projects I care about most — product depth, unusual UX, or solid engineering.
 
 ### Also comfortable with
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,electron,android,kotlin,java,python,spring,docker,git,jest,githubactions" alt="General skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,threejs,kotlin,java,python,spring,docker,git,jest,githubactions,svelte" alt="General skills" />
 </p>
 
 </div>
@@ -156,9 +150,9 @@ Projects I care about most — product depth, unusual UX, or solid engineering.
 | --- | --- |
 | **UI & state** | React, Vue, Angular · Redux, MobX, Effector, Zustand, RxJS |
 | **Design systems** | Gravity UI, Ant Design · Figma |
-| **Build & quality** | Vite, Webpack · Playwright, Cypress, Jest |
+| **Build & quality** | Vite, Webpack · Playwright, Cypress, Jest, Storybook |
 | **Styles** | CSS Modules, Sass, Stylus |
-| **Backend / mobile** | Node, Express · Kotlin / Android · Java / Spring · Python / Django |
+| **Backend / mobile** | Node, Express · Kotlin · Java / Spring · Python / Django |
 | **Infra** | Git, Docker, CI basics |
 
 ---
@@ -166,7 +160,7 @@ Projects I care about most — product depth, unusual UX, or solid engineering.
 ## About
 
 ```text
-Favourite stacks ...... MERN / MEVN · React + Vite · Electron
+Favourite stacks ...... MERN / MEVN · React + Vite · Vue + Effector
 IDE ................... VS Code (and friends)
 Currently ............. Frontend @ Yandex · Moscow
 Education ............. RUT (MIIT)
@@ -183,7 +177,7 @@ Education ............. RUT (MIIT)
 
 ## Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinilornekora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 
 <br/><br/>
