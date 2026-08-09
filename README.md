@@ -63,6 +63,10 @@
         <b>Tools</b><br />
         <code>Git</code> <code>Docker</code>
       </p>
+      <p>
+        <b>AI tooling</b><br />
+        <code>Cursor</code> <code>Claude Code</code> <code>Codex</code> <code>OpenCode</code>
+      </p>
     </td>
   </tr>
 </table>
