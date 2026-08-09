@@ -30,16 +30,16 @@ Public projects with real substance — architecture, UX, or systems depth.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shinilornekora/st-front">st-front</a></h3>
+      <h3><a href="https://github.com/shinilornekora/tiffany">tiffany</a></h3>
       <p>
-        Vue 3 storefront on Feature-Sliced Design: products, cart, orders, auth,
-        seller flows. Contract-driven API layer + mock server, Storybook, Vitest.
+        Frontend service for Team Entropy — TypeScript UI layer for the Entropy
+        product stack, built as part of a multi-repo team project.
       </p>
       <p>
-        <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img alt="FSD" src="https://img.shields.io/badge/FSD-0D1117?style=flat-square"/>
-        <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img alt="Frontend" src="https://img.shields.io/badge/Frontend-238636?style=flat-square"/>
+        <img alt="Team" src="https://img.shields.io/badge/Team%20Entropy-0D1117?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -120,8 +120,8 @@ Public projects with real substance — architecture, UX, or systems depth.
 
   | Project | What it is |
   | --- | --- |
+  | [st-front](https://github.com/shinilornekora/st-front) | Vue 3 FSD storefront — cart, orders, Storybook, mock API |
   | [rpg-clicker](https://github.com/shinilornekora/rpg-clicker) | Round-based RPG clicker — combat, shop, upgrades |
-  | [tiffany](https://github.com/shinilornekora/tiffany) | Frontend service for Team Entropy |
   | [ValuteConverter](https://github.com/shinilornekora/ValuteConverter) | Multi-tech demo wiring several stacks together |
   | [blog](https://github.com/shinilornekora/blog) | Angular blog playground |
   | [Navigator](https://github.com/shinilornekora/Navigator) | Pathfinding / navigation via classic algorithms |
