@@ -8,8 +8,12 @@
 > 💼 3 years experience
 
 
-## 🔥 Stack
+<br />
 
+<div align="center">
+  <h2>⚡ Tech Stack</h2>
+  <p><i>Technologies I use to turn ideas into reliable products</i></p>
+</div>
 
 <!-- Frontend -->
 <table>
