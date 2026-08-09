@@ -1,7 +1,6 @@
 <div align="center">
 
-# Andrew Orl
-### Frontend Engineer @ Yandex
+# Shiniasse
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=TypeScript+enthusiast;React+%7C+Vue+%7C+Three.js+%7C+Node;Moscow+%C2%B7+RUT+(MIIT)" alt="Typing SVG" />
 
@@ -13,11 +12,6 @@
 [![Education](https://img.shields.io/badge/RUT%20(MIIT)-0D1117?style=for-the-badge&logo=googleacademic&logoColor=58A6FF)](https://www.miit.ru)
 
 <br/>
-
-<p>
-  Frontend at Yandex since May 2023.<br/>
-  Mostly TypeScript. Side projects when there's time.
-</p>
 
 </div>
 
