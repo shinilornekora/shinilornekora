@@ -1,7 +1,7 @@
 # 🚀 Currently pursuing the role of the frontend developer
 
 
-> 👨‍🎓 22 y.o, RUT(MIIT), 4th year student  
+> 👨‍🎓 22 y.o, RUT(MIIT), Bachelor of Computer Science, 1st grade of Master degree  
 > 🏢 Frontend Engineer @ Yandex  
 > 💼 3 years experience
 
