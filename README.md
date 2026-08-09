@@ -63,22 +63,3 @@ Education ............. RUT (MIIT)
 
 > ~~Wanted to visit Japan and make good memories~~ — visited, it was delightful.  
 > Next dream destination: **China**.
-
----
-
-<div align="center">
-
-## Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shinilornekora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinilornekora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shinilornekora&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br/><br/>
-
-<sub>Built with TypeScript, curiosity, and the occasional perfect cocktail.</sub>
-
-</div>
