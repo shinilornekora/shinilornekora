@@ -4,7 +4,7 @@
 
 
 > 👨‍🎓 22 y.o. · BSc in Computer Science · First-year Master's student at RUT (MIIT)  
-> 🏢 Frontend Engineer @ Yandex  
+> 🏢 Yandex Technologies LLC  
 > 💼 3 years experience
 
 
