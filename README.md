@@ -76,11 +76,6 @@
   </tr>
 </table>
 
-## 🎸 Beyond Code
-- Playing guitar
-- Cooking (especially interesting dishes)
-- Making cocktails
-
 ## 🌏 Dreams
 
 <details open>
